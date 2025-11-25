@@ -1,0 +1,5 @@
+{
+  "name": "AI Flashcard Generator",
+  "description": "Turn YouTube videos or documents into printable flashcards using Google Gemini 3.",
+  "requestFramePermissions": []
+}
